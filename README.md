@@ -1,14 +1,3 @@
-<p align="center">
- <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" height="25" />
- <img align=center src="https://visitor-badge.laobi.icu/badge?page_id=iljo-dp.iljo-dp" alt="visitors" height="25" />
- <img align=center src="https://img.shields.io/github/followers/iljo-dp?label=Follow me&style=social" alt="followers" height="25" />
- <img align=center src="https://user-images.githubusercontent.com/26017543/213809357-1687c2d7-8c88-47af-a9be-9110b1d9c10a.png" alt="Party Popper" height="25" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iljo-dp&langs_count=8)
 
-<p align="center">
-<img align=center src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=iljo-dp&layout=compact&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="languages" height="200" />
-</p>
-
-<p align="center">
-<img align=center src="https://github-readme-stats-one-bice.vercel.app/api?username=iljo-dp&show_icons=false&include_all_commits=true&layout=compact&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="stats" height="200" />
-</p>
+![Iljo's GitHub stats](https://github-readme-stats.vercel.app/api?username=iljo-dp\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
